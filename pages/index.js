@@ -15,7 +15,7 @@ export default function Index({ allPosts }) {
         <Container>
           <Intro />
           <h2 className="mb-8 text-5xl md:text-5xl font-bold tracking-tighter leading-tight">
-            Hi, I'm Hen 👋
+            Hi, I'm Will 👋
           </h2>
           <p>
             Currently, I am finishing my final year in college where I am
@@ -23,14 +23,14 @@ export default function Index({ allPosts }) {
           </p>
           <ul className="list-disc list-inside mt-3 ml-3 mb-8">
             <li>C#</li>
-            <li>HTML</li>
+            <li>HTML / CSS</li>
             <li>SQL</li>
             <li>Cisco Packet Tracer</li>
           </ul>
 
           <p>
             Outside of college I am working as a part time chef and have been
-            self learning,
+            self learning JavaScript
           </p>
           <ul className="list-disc list-inside mt-3 ml-3 mb-8">
             <li>NodeJS</li>
@@ -39,7 +39,7 @@ export default function Index({ allPosts }) {
             <li>NextJS</li>
           </ul>
 
-          <p>Hear are a couple places you can find me online</p>
+          <p>Here are a couple places you can find me online</p>
 
           <ul className="list-disc list-inside mt-3 ml-3 mb-8">
             <li>
