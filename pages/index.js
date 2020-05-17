@@ -57,6 +57,13 @@ export default function Index({ allPosts }) {
                 wjjcrankshaw@<strong>gmail</strong>.com
               </a>
             </li>
+            <li>
+              or check out my
+              <a href="/assets/_william-j-crankshaw-resume.doc">
+                {" "}
+                <strong>resume</strong>
+              </a>
+            </li>
           </ul>
 
           {allPosts.length > 0 && <NotableRepositories posts={allPosts} />}
