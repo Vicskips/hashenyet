@@ -6,4 +6,4 @@ ogImage:
   url: "/assets/blog/node.png"
 ---
 
-[NodeJS app](https://github.com/Vicskips/node-crashcourse)
+Write up coming soon, find out more at the projects repo: [NodeJS app](https://github.com/Vicskips/node-crashcourse)

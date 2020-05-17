@@ -6,4 +6,4 @@ ogImage:
   url: "/assets/blog/next.png"
 ---
 
-[Has Hen Yet source code](https://github.com/Vicskips/hashenyet)
+Write up coming soon, find out more at the projects repo: [Has Hen Yet source code](https://github.com/Vicskips/hashenyet)
