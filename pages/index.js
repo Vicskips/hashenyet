@@ -1,5 +1,5 @@
 import Container from "../components/container";
-import MoreStories from "../components/more-stories";
+import NotableRepositories from "../components/notable-repositories";
 import Intro from "../components/intro";
 import Layout from "../components/layout";
 import { getAllPosts } from "../lib/api";
@@ -15,7 +15,7 @@ export default function Index({ allPosts }) {
         <Container>
           <Intro />
 
-          {allPosts.length > 0 && <MoreStories posts={allPosts} />}
+          {allPosts.length > 0 && <NotableRepositories posts={allPosts} />}
         </Container>
       </Layout>
     </>
