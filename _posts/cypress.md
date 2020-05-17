@@ -1,6 +1,6 @@
 ---
 title: "Cypress"
-excerpt: " Cypress"
+excerpt: "Cypress"
 coverImage: "/assets/blog/cypress.png"
 ogImage:
   url: "/assets/blog/cypress.png"

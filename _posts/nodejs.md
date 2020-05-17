@@ -1,9 +1,9 @@
 ---
 title: "NodeJS"
 excerpt: "NodeJS crash course"
-coverImage: "/assets/blog/nodejs.png"
+coverImage: "/assets/blog/node.png"
 ogImage:
-  url: "/assets/blog/nodejs.png"
+  url: "/assets/blog/node.png"
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Praesent elementum facilisis leo vel fringilla est ullamcorper eget. At imperdiet dui accumsan sit amet nulla facilisi morbi tempus. Praesent elementum facilisis leo vel fringilla. Congue mauris rhoncus aenean vel. Egestas sed tempus urna et pharetra pharetra massa massa ultricies.
