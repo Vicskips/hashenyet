@@ -1,6 +1,5 @@
 import Container from "../components/container";
 import MoreStories from "../components/more-stories";
-
 import Intro from "../components/intro";
 import Layout from "../components/layout";
 import { getAllPosts } from "../lib/api";
@@ -24,14 +23,7 @@ export default function Index({ allPosts }) {
 }
 
 export async function getStaticProps() {
-  const allPosts = getAllPosts([
-    "title",
-    "date",
-    "slug",
-    "author",
-    "coverImage",
-    "excerpt",
-  ]);
+  const allPosts = getAllPosts(["title", "slug", "coverImage", "excerpt"]);
 
   return {
     props: { allPosts },
