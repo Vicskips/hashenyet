@@ -1,5 +1,5 @@
 ---
-title: "Cypress"
+title: "Cypress: Getting started"
 excerpt: "Cypress"
 coverImage: "/assets/blog/cypress.png"
 ogImage:

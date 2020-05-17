@@ -1,5 +1,5 @@
 ---
-title: "Express"
+title: "Express Crash Course"
 excerpt: "Express"
 coverImage: "/assets/blog/express.png"
 ogImage:

@@ -13,7 +13,6 @@ export default function NotableRepositories({ posts }) {
             title={post.title}
             coverImage={post.coverImage}
             slug={post.slug}
-            excerpt={post.excerpt}
           />
         ))}
       </div>

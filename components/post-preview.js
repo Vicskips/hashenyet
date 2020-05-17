@@ -1,14 +1,7 @@
 import CoverImage from "./cover-image";
 import Link from "next/link";
 
-export default function PostPreview({
-  title,
-  coverImage,
-  date,
-  excerpt,
-  author,
-  slug,
-}) {
+export default function PostPreview({ title, coverImage, excerpt, slug }) {
   return (
     <div>
       <div className="mb-5">
@@ -20,7 +13,7 @@ export default function PostPreview({
         </Link>
       </h3>
 
-      <p className="text-lg leading-relaxed mb-4">{excerpt}</p>
+      {excerpt && <p className="text-lg leading-relaxed mb-4">{excerpt}</p>}
     </div>
   );
 }

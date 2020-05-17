@@ -1,5 +1,5 @@
 ---
-title: "NextJS"
+title: "NextJS: Blog starter"
 excerpt: "NextJS"
 coverImage: "/assets/blog/next.png"
 ogImage:

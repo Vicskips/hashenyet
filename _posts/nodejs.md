@@ -1,5 +1,5 @@
 ---
-title: "NodeJS"
+title: "NodeJS Crash Course"
 excerpt: "NodeJS crash course"
 coverImage: "/assets/blog/node.png"
 ogImage:
